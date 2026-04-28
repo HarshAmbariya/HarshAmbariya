@@ -32,6 +32,11 @@ Git, Docker, Postman, Maven
 
 ## 📂 Featured Projects
 
+### 🔹 Real-Time Logistics System
+- Built backend supporting booking and live tracking
+- Implemented WebSocket-based real-time driver assignment
+- Used Redis caching to reduce latency and improve performance
+
 ### 🔹 E-Commerce Backend
 - Built scalable backend with modules: Product, User, Cart, Order
 - Optimized REST APIs and database queries (25% faster response)
@@ -41,11 +46,6 @@ Git, Docker, Postman, Maven
 - Developed secure CRUD backend with modular architecture
 - Integrated MongoDB for scalable data storage
 - Designed APIs with validation and robust error handling
-
-### 🔹 Real-Time Logistics System
-- Built backend supporting booking and live tracking
-- Implemented WebSocket-based real-time driver assignment
-- Used Redis caching to reduce latency and improve performance
 
 ---
 
